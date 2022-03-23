@@ -14,8 +14,3 @@ spring:
     broker-url: ${JMS_BROKER_URL:tcp://localhost:61616}
     user: arthur
     password: live
-springdoc:
-  api-docs:
-    path: /api-documentation
-  swagger-ui:
-    path: /documentation
